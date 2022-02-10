@@ -1,0 +1,18 @@
+.title{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+textarea{
+    font-size: 15px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button{
+    color: black;
+    background-color: coral;
+    margin: 5px;
+    font-size: 15px;
+    padding: 5px;
+}
+button:hover{
+    background-color: darkred;
+}
